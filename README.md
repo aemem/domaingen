@@ -1,3 +1,10 @@
+
+
+He hecho loops con for uno dentro de otro para cada uno de los arrays, y dentro del último un console.log que devuelva concatenados los elementos que se encuentran en el índice por el que vaya el loop en ese momento en cada uno los arrays.
+
+
+
+
 # Hello World with Vanilla JS
 
 Start coding in 30 seconds by opening this template in gitpod:
